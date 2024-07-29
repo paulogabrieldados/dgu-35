@@ -1,4 +1,4 @@
-# dgu-35
+# Data Glow UP 35
 
 Projeto realizado durante a participação do Data Glow UP 35
 
