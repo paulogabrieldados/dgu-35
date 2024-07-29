@@ -28,4 +28,7 @@ Oportunidades:
 - Fidelizar os incritos através de benefícios por ter o e-mail cadastrado.
 - Novos conteúdos sobre Python e Ciências de Dados, visto que esses foram os de maiores visualização.
 
-Link de visualização do Dashboard: <iframe title="dgu35" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTRmNDU2ZDYtZjdjYi00YWQ3LWEzNGYtNWFkNGY3OWMzODYxIiwidCI6IjQyOTJlZGZlLTcxN2QtNDgxYy1hZmQwLWUwNWU3NzJiNjhiMiJ9" frameborder="0" allowFullScreen="true"></iframe>
+Link de visualização do Dashboard: 
+<div>
+  <iframe title="dgu35" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTRmNDU2ZDYtZjdjYi00YWQ3LWEzNGYtNWFkNGY3OWMzODYxIiwidCI6IjQyOTJlZGZlLTcxN2QtNDgxYy1hZmQwLWUwNWU3NzJiNjhiMiJ9" frameborder="0" allowFullScreen="true"></iframe>
+</div>
