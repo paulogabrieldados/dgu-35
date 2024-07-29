@@ -23,7 +23,7 @@ O projeto onde tivemos mais Lista de Presença - um dado que podemos assumir com
 Apesar do grande sucesso das lives, apenas 4.85% dos inscritos tem o e-mail cadastrado no sistema de pontos.
 
 
-# Oportunidades:
+# ❗Oportunidades:
 
 - Fidelizar os incritos através de benefícios por ter o e-mail cadastrado.
 - Novos conteúdos sobre Python e Ciências de Dados, visto que esses foram os de maiores visualização.
