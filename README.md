@@ -28,4 +28,6 @@ Apesar do grande sucesso das lives, apenas 4.85% dos inscritos tem o e-mail cada
 - Fidelizar os incritos através de benefícios por ter o e-mail cadastrado.
 - Novos conteúdos sobre Python e Ciências de Dados, visto que esses foram os de maiores visualização.
 
-Link de visualização do Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTRmNDU2ZDYtZjdjYi00YWQ3LWEzNGYtNWFkNGY3OWMzODYxIiwidCI6IjQyOTJlZGZlLTcxN2QtNDgxYy1hZmQwLWUwNWU3NzJiNjhiMiJ9
+## Link do Dataset: https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system
+
+## Link de visualização do Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTRmNDU2ZDYtZjdjYi00YWQ3LWEzNGYtNWFkNGY3OWMzODYxIiwidCI6IjQyOTJlZGZlLTcxN2QtNDgxYy1hZmQwLWUwNWU3NzJiNjhiMiJ9
